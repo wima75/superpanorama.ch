@@ -1,0 +1,83 @@
+#allphotolist {
+    color: #ffffff;
+    margin-top: 120px;
+}
+
+    #allphotolist .container h2 {
+        color: #ffffff;
+        position: absolute;
+        font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+        font-size: 44px;
+        line-height: 30px;
+        text-transform: uppercase;
+        border: 2px solid #ffffff;
+        padding: 20px;
+        white-space: nowrap;
+        -webkit-font-smoothing: antialiased !important;
+    }
+
+#allphotolist figure {
+    margin: 0;
+    padding: 0;
+    padding-bottom: 2px;
+    margin-right: 2px;
+}
+
+    #allphotolist .allPhoto {
+        font-size: 0;
+        margin: 0;
+        padding: 0;
+        margin-top: 120px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    #allphotolist img {
+        vertical-align: top;
+        width: 100%;
+    }
+
+    #allphotolist figure {
+        display: inline-block;
+        width: calc(100% - 2px);
+        overflow: hidden;
+    }
+
+
+        #allphotolist figure img {
+            transition: transform .2s ease-in-out;
+        }
+
+    #allphotolist img:hover {
+        transform: scale(1.15);
+    }
+
+@media screen and (min-width: 300px) {
+    #allphotolist figure {
+        width: calc(100% / 2 - 2px);
+    }
+}
+
+@media screen and (min-width: 500px) {
+    #allphotolist figure {
+        width: calc(100% / 3 - 2px);
+    }
+}
+
+@media screen and (min-width: 768px) {
+    #allphotolist figure {
+        width: calc(100% / 4 - 2px);
+    }
+}
+
+@media screen and (min-width: 990px) {
+    #allphotolist figure {
+        width: calc(100% / 5 - 2px);
+    }
+}
+
+@media screen and (min-width: 1210px) {
+    #allphotolist figure {
+        width: calc(100% / 6 - 2px);
+    }
+}

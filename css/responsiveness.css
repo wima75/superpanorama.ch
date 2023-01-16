@@ -1,0 +1,181 @@
+/*=======================
+Theme: Awesome Photography/Portfolio Template
+This is the Style for Responsiveness
+Author: JLP Media
+Email: jennpereira13@gmail.com / lianplameras@gmail.com
+Version: 1.00 
+Date Created: August 10, 2014
+Updated: Feb. 13, 2015
+=======================*/
+/* MAX 1080px */
+@media (max-width: 1080px) { 
+    h1 { font-size: 5em }
+    .carousel-control.right img,
+    .carousel-control.left img { width: 50px }
+    .pull-right {
+        float: none !important;
+        text-align: center;
+    }
+    #subscribe { text-align: center }
+    p.atext { padding-top: 20px }
+}
+@media (max-width: 800px) {
+    #multivision {
+        background-image: url('../img/04_about_mobile.jpg');
+    }
+}
+/* MAX 768px */
+@media (max-width: 768px) { 
+    .about-content {
+        padding-top: 140px;
+        text-align: center;
+    }
+    h1 { font-size: 4em }
+    p.atext { width: 100% }
+    #subscribe span.right { float: none }
+    #video .content { padding: 20px !important }
+    #video .header-text-overlay { top: 10% !important }
+}
+/* MIN 768px */
+@media (min-width: 768px) { 
+    #comments { margin-right: 35px }
+    .comment-avatar {
+        width: 100px;
+        padding-right: 30px;
+    }
+    .commentlist ul { margin-left: 100px }
+}
+/* MAX 720px */
+@media (max-width: 720px) { 
+    .portfolio-modal .modal-content img {
+        margin-bottom: 30px;
+        max-width: 100%;
+        height: auto;
+        margin-left: 0px;
+    }
+    .navbar-default .navbar-brand img { height: 42px }
+}
+
+/* MAX 620px */
+@media (max-width: 620px) { 
+    #banner .img-responsive, .thumbnail > img, 
+    #banner .thumbnail a > img, 
+    #banner .carousel-inner > .item > img, 
+    #banner .carousel-inner > .item > a > img {
+        width: -webkit-calc(100% + 80px);
+        width: calc(100% + 80px);
+        max-width: 140%;
+        height: 400px;
+    }
+}
+/* MAX 560px */
+@media (max-width: 560px) { 
+    header {
+        overflow: hidden;
+    }
+    h1 {
+        font-size: 3em;
+    }
+}
+
+/* MAX 460px */
+@media (max-width: 460px) { 
+    #banner .img-responsive, .thumbnail > img, 
+    #banner .thumbnail a > img, 
+    #banner .carousel-inner > .item > img, 
+    #banner .carousel-inner > .item > a > img {
+        width: -webkit-calc(100% + 240px);
+        width: calc(100% + 240px);
+        max-width: 240%;
+        height: 400px;
+        transform: translateX(-100px) translateY(0px);
+        -webkit-transform: translateX(-100px) translateY(0px);
+        -moz-transform: translateX(-100px) translateY(0px);
+        -ms-transform: translateX(-100px) translateY(0px);
+        -o-transform: translateX(-100px) translateY(0px);
+    }
+
+    .dark-overlay {
+        height: 350px;
+        padding-top: 100px;
+    }
+    h1 {
+        font-size: 2.2em;
+        letter-spacing: 1px;
+    }
+    h6 {
+        font-size: 9px;
+        font-weight: 300;
+    }
+    #subscribe p { margin: 20px 30px 0 30px }
+    #socials p, #bsocials p {
+        font-size: 12px;
+        letter-spacing: 0px;
+    }
+    #footer {
+        padding-top: 20%;
+        padding-bottom: 10%;
+    }
+    #footer h2, #socials h2 {
+        font-size: 2em;
+        width: 310px;
+        padding: 10px;
+    }
+    #footer p { padding-top: 10px }
+    #footer-nav {
+        padding-top: 40px;
+        font-size: 10px;
+        letter-spacing: 0px;
+    }
+}
+/* MAX 320px */
+@media (max-width: 340px) { 
+    #banner .img-responsive, .thumbnail > img, 
+    #banner .thumbnail a > img, 
+    #banner .carousel-inner > .item > img, 
+    #banner .carousel-inner > .item > a > img {
+        width: -webkit-calc(100% + 240px);
+        width: calc(100% + 240px);
+        max-width: 280%;
+        height: 350px;
+        transform: translateX(-100px) translateY(0px);
+        -webkit-transform: translateX(-100px) translateY(0px);
+        -moz-transform: translateX(-100px) translateY(0px);
+        -ms-transform: translateX(-100px) translateY(0px);
+        -o-transform: translateX(-100px) translateY(0px);
+    }
+    h1 { font-size: 1.5em }
+    figure.effect-layla h2 { font-size: 1.5em }
+    .service-border h4 {
+        font-size: 13px;
+        letter-spacing: 1px;
+    }
+    h6 {
+        font-size: 10px;
+        font-weight: 400;
+    }
+    .grid figure h2 { font-size: 16px }
+    #socials span.follow {
+        font-size: 20px;
+        width: 200px;
+        letter-spacing: 1px;
+    }
+    ol.social li { padding: 0 6px }
+    #socials p {
+        font-size: 12px;
+        letter-spacing: 0px;
+    }
+    #socials span.follow {
+        font-size: 20px;
+        letter-spacing: 5px;
+        width: 220px;
+    }
+    #footer h2, #socials h2 {
+        font-size: 1.5em;
+        width: 250px;
+    }
+    #footer p {
+        letter-spacing: 0;
+        font-size: 12px;
+    }
+}

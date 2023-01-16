@@ -1,0 +1,420 @@
+body {
+    background-image: url('../img/bgseide.jpg');
+    background-attachment: fixed;
+}
+
+#sp-thumbnails img {
+    margin: 5px;
+}
+
+.gap-right {
+    margin-right: 10px;
+}
+
+#multivision p.atext {
+    padding-top: 0;
+}
+
+.navbar-default.navbar-shrink {
+    background-image: url('../img/bgseide.jpg');
+    background-attachment: fixed;
+}
+
+#footer-nav {
+    background-color: transparent;
+}
+
+
+/**************************
+****** Multivision Section ******
+**************************/
+#multivision {
+    /*background-image: url('../img/03_about.jpg');*/
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: auto;
+    max-height: 2000px;
+    min-height: 720px;
+    color: #ffffff;
+    margin-top: -1px;
+}
+
+.multivision-content {
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+#multivision-parallax .multivision-content {
+    padding-top: 12%;
+    padding-bottom: 10%;
+}
+
+#multivision .container h2,
+#multivision-parallax h2 {
+    position: absolute;
+    font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+    font-size: 44px;
+    line-height: 30px;
+    text-transform: uppercase;
+    border: 2px solid #ffffff;
+    padding: 20px;
+    white-space: nowrap;
+    -webkit-font-smoothing: antialiased !important;
+}
+
+.multivision-text, .allphoto-text {
+    margin-top: 10%;
+    position: relative;
+}
+
+.dark-overlay {
+    background: rgba(0, 0, 0, 0.8);
+    height: 400px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.multivision-text .flow, .allphoto-text .flow {
+    font-size: 12px;
+    font-weight: 300;
+    font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+    letter-spacing: 2px;
+    padding-top: 20px;
+}
+
+.allphoto-text .flow {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.multivision-text .top {
+    padding-top: 0;
+}
+
+.zitat {
+    text-align: center;
+    color: #ffffff;
+}
+
+.zitat-border:hover > h2,
+.zitat-border:hover {
+    color: #fec503;
+    border-color: #fec503;
+    -webkit-transition: all 1s;
+    -moz-transition: all 1s;
+    transition: all 1s;
+}
+
+    .zitat-border:hover > h4,
+    .zitat-border:hover > h6 {
+        color: #ffffff;
+    }
+
+.zitat div.zitat-border {
+    padding: 20px;
+}
+
+.zitat-border {
+    padding: 5px 10px;
+    border: 2px solid #ffffff;
+    width: 40%;
+}
+
+/**************************
+****** Projects Section ******
+**************************/
+#projects {
+    background: #000000;
+    background: rgba(0, 0, 0, 0.6);
+    height: auto;
+    max-height: 2000px;
+    min-height: 720px;
+    color: #ffffff;
+    margin-top: -1px;
+}
+
+    #projects .container h2 {
+        color: #ffffff;
+        position: absolute;
+        font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+        font-size: 44px;
+        line-height: 30px;
+        text-transform: uppercase;
+        border: 2px solid #ffffff;
+        padding: 20px;
+        white-space: nowrap;
+        -webkit-font-smoothing: antialiased !important;
+    }
+
+    #projects .container .row {
+        margin-top: 120px;
+    }
+
+.projects-text .top-space {
+    margin-top: 50px;
+}
+
+.projects-content {
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+#portfolio {
+    background: #000000;
+    background: rgba(0, 0, 0, 0.8);
+}
+
+/*figure.effect-portfolio {
+    background-color: transparent;
+}
+
+.grid figure {
+    background-color: transparent;
+}*/
+
+.sidebox {
+    background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 10px;
+}
+
+    .sidebox h3 {
+        padding: 10px;
+    }
+
+    .sidebox li {
+        font-size: 12px;
+        font-weight: 300;
+        font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+        letter-spacing: 1px;
+        background: url(../images/bullet.gif) no-repeat left top;
+        background-position-y: 2px;
+        padding: 0 0 4px 25px;
+        list-style: none;
+        margin: 0;
+    }
+
+    .sidebox ul {
+        padding-bottom: 10px;
+        padding-left: 20px;
+        margin-left: 0;
+    }
+
+.carousel-inner .item {
+    margin-bottom: 100px;
+}
+
+.carousel-inner h4 {
+    line-height: 25px;
+    font-size: 16px;
+    text-transform: none;
+}
+
+    .carousel-inner h4 strong {
+        text-transform: uppercase;
+        font-weight: 900;
+        color: #fec503;
+    }
+
+.carousel-inner h5 {
+    padding-top: 10px;
+    font-size: 14px;
+    margin-top: 20px;
+    word-spacing: 2px;
+    font-style: italic;
+}
+
+.carousel-inner h6 {
+    font-size: 12px;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    font-weight: 400;
+}
+
+.carousel-inner .vision-border:hover {
+    color: white;
+}
+
+.carousel-indicators {
+    bottom: 110px;
+}
+
+#footer a, form a,
+#footer a:hover, form a:hover,
+#footer a:focus, form a:focus,
+#footer a:active, form a:active,
+#footer a.active, form a.active {
+    outline: 0;
+}
+
+#footer a, form a {
+    color: #ffffff;
+}
+
+    #footer a:hover, form a:hover,
+    #footer a:focus, form a:focus,
+    #footer a:active, form a:active,
+    #footer a.active, form a.active {
+        color: #fec503;
+        -webkit-transition: all ease .8s;
+        -moz-transition: all ease .8s;
+        transition: all ease .8s;
+        text-decoration: none;
+    }
+
+#footer {
+    background: #000000;
+    background: rgba(0, 0, 0, 0.75);
+}
+
+.g-recaptcha div {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+
+#captcha {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#banner {
+    background: #000000;
+    background: rgba(0, 0, 0, 0.6);
+}
+
+#intro {
+    background: #000000;
+    background: rgba(0, 0, 0, 0.6);
+    color: #ffffff;
+    padding-bottom: 80px;
+}
+
+    #intro .intro-content {
+        display: none;
+    }
+
+#socials span.follow {
+    width: 400px;
+}
+
+#allphoto {
+    color: #ffffff;
+    padding-top: 20px;
+}
+
+#allphotolist {
+    color: #ffffff;
+    margin-top: 120px;
+}
+
+    #allphoto .container h2, #allphotolist .container h2 {
+        color: #ffffff;
+        position: absolute;
+        font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+        font-size: 44px;
+        line-height: 30px;
+        text-transform: uppercase;
+        border: 2px solid #ffffff;
+        padding: 20px;
+        white-space: nowrap;
+        -webkit-font-smoothing: antialiased !important;
+    }
+
+#allphoto a #allphoto a:hover,
+#allphoto a:focus,
+#allphoto a:active,
+#allphoto a.active {
+    outline: 0;
+}
+
+#allphoto a {
+    color: #fec503;
+}
+
+    #allphoto a:hover,
+    #allphoto a:focus,
+    #allphoto a:active,
+    #allphoto a.active {
+        color: #ffff;
+        -webkit-transition: all ease .8s;
+        -moz-transition: all ease .8s;
+        transition: all ease .8s;
+        text-decoration: none;
+    }
+
+section#contact {
+    background: #000000;
+    background: rgba(0, 0, 0, 0.75);
+}
+
+#socials {
+    background: #ffffff;
+    background: rgba(255, 255, 255, 0.7);
+}
+
+#allphotolist figure {
+    margin: 0;
+    padding: 0;
+    padding-bottom: 2px;
+    margin-right: 2px;
+}
+
+    #allphotolist .allPhoto {
+        font-size: 0;
+        margin: 0;
+        padding: 0;
+        margin-top: 120px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    #allphotolist img {
+        vertical-align: top;
+        width: 100%;
+    }
+
+    #allphotolist figure {
+        display: inline-block;
+        width: calc(100% - 2px);
+        overflow: hidden;
+    }
+
+
+        #allphotolist figure img {
+            transition: transform .2s ease-in-out;
+        }
+
+    #allphotolist img:hover {
+        transform: scale(1.15);
+    }
+
+@media screen and (min-width: 300px) {
+    #allphotolist figure {
+        width: calc(100% / 2 - 2px);
+    }
+}
+
+@media screen and (min-width: 500px) {
+    #allphotolist figure {
+        width: calc(100% / 3 - 2px);
+    }
+}
+
+@media screen and (min-width: 768px) {
+    #allphotolist figure {
+        width: calc(100% / 4 - 2px);
+    }
+}
+
+@media screen and (min-width: 990px) {
+    #allphotolist figure {
+        width: calc(100% / 5 - 2px);
+    }
+}
+
+@media screen and (min-width: 1210px) {
+    #allphotolist figure {
+        width: calc(100% / 6 - 2px);
+    }
+}

@@ -1,0 +1,1065 @@
+{
+  "gallery": [
+    {
+      "title": "Landschaften",
+      "images": [
+        {
+          "img": "Sonnenaufgang_auf_dem_Brienzer_Rothorn.jpg",
+          "title": "Sonnenaufgang auf dem Brienzer Rothorn"
+        },
+        {
+          "img": "Aussicht_von_der_Rigi.jpg",
+          "title": "Aussicht von der Rigi"
+        },
+        {
+          "img": "Aussicht_in_Baldegg.jpg",
+          "title": "Aussicht in Baldegg"
+        },
+        {
+          "img": "Val_Trupchun.jpg",
+          "title": "Val Trupchun"
+        },
+        {
+          "img": "Laerchen_im_Val_Trupchun.jpg",
+          "title": "Lärchen im Val Trupchun"
+        },
+        {
+          "img": "Obersee.jpg",
+          "title": "Obersee"
+        },
+        {
+          "img": "Toggenburg.jpg",
+          "title": "Toggenburg"
+        },
+        {
+          "img": "Seealpsee_im_Nebel.jpg",
+          "title": "Seealpsee im Nebel"
+        },
+        {
+          "img": "Seealpsee.jpg",
+          "title": "Seealpsee"
+        },
+        {
+          "img": "Herbstwald_mit_Weg.jpg",
+          "title": "Herbstwald mit Weg"
+        }
+      ]
+    },
+    {
+      "title": "Schweiz",
+      "images": [
+        {
+          "img": "Stadt_Zofingen.jpg",
+          "title": "Stadt Zofingen"
+        },
+        {
+          "img": "Strengelbach_bei_Sonnenuntergang.jpg",
+          "title": "Strengelbach bei Sonnenuntergang"
+        },
+        {
+          "img": "Guten_Morgen_Zuerich.jpg",
+          "title": "Guten Morgen Zürich"
+        },
+        {
+          "img": "Ehrenpreis.jpg",
+          "title": "Ehrenpreis",
+          "w": 700,
+          "h": 700
+        },
+        {
+          "img": "Loewenzahn.jpg",
+          "title": "Löwenzahn",
+          "w": 700,
+          "h": 700
+        },
+        {
+          "img": "Apfelbaumbluete.jpg",
+          "title": "Apfelbaumblüte",
+          "w": 700,
+          "h": 700
+        },
+        {
+          "img": "Apfelbaeume.jpg",
+          "title": "Apfelbäume"
+        },
+        {
+          "img": "Apfelbaumplantage_in_Hugelshofen.jpg",
+          "title": "Apfelbaumplantage in Hugelshofen"
+        },
+        {
+          "img": "Rapsfeld_mit_Schneebergen_im_Hintergrund.jpg",
+          "title": "Rapsfeld mit Schneebergen im Hintergrund"
+        },
+        {
+          "img": "Sonnenaufgang_auf_dem_Guggershoernli.jpg",
+          "title": "Sonnenaufgang auf dem Guggershörnli"
+        },
+        {
+          "img": "Aussicht_vom_Gugershoernli.jpg",
+          "title": "Aussicht vom Gugershörnli"
+        },
+        {
+          "img": "Sonnenuntergang_beim_Schloss_Trachselwald.jpg",
+          "title": "Sonnenuntergang beim Schloss Trachselwald"
+        },
+        {
+          "img": "Aussicht_von_Leuggern_auf_die_Aare.jpg",
+          "title": "Aussicht von Leuggern auf die Aare"
+        },
+        {
+          "img": "Aussicht_von_Leuggern.jpg",
+          "title": "Aussicht von Leuggern"
+        },
+        {
+          "img": "BrittnauStrengelbach.jpg",
+          "title": "Brittnau/Strengelbach"
+        },
+        {
+          "img": "Sonnenaufgang_von_Lueg_im_Emmental.jpg",
+          "title": "Sonnenaufgang von Lueg im Emmental"
+        },
+        {
+          "img": "Berner_Alpen_am_fruehen_Morgen.jpg",
+          "title": "Berner Alpen am frühen Morgen"
+        },
+        {
+          "img": "Nebelmeer_von_der_Belchenflue_aus_gesehen.jpg",
+          "title": "Nebelmeer von der Belchenflue aus gesehen"
+        },
+        {
+          "img": "Sonnenaufgang_auf_der_Belchenflue.jpg",
+          "title": "Sonnenaufgang auf der Belchenflue"
+        },
+        {
+          "img": "Nebel_bei_Sonnenuntergang.jpg",
+          "title": "Nebel bei Sonnenuntergang"
+        },
+        {
+          "img": "Silsersee.jpg",
+          "title": "Silsersee"
+        },
+        {
+          "img": "Lagh_da_Val_Viola.jpg",
+          "title": "Lagh da Val Viola"
+        },
+        {
+          "img": "Kopf_eines_Steinbocks.jpg",
+          "title": "Kopf eines Steinbocks",
+          "w": 700,
+          "h": 700
+        },
+        {
+          "img": "Steinbock.jpg",
+          "title": "Steinbock",
+          "w": 700,
+          "h": 700
+        },
+        {
+          "img": "Chuderhuesi_im_Emmental.jpg",
+          "title": "Chuderhüsi im Emmental"
+        },
+        {
+          "img": "Sonnenaufgang_auf_dem_Brienzer_Rothorn.jpg",
+          "title": "Sonnenaufgang auf dem Brienzer Rothorn"
+        },
+        {
+          "img": "Aare.jpg",
+          "title": "Aare"
+        },
+        {
+          "img": "RapperswilJona.jpg",
+          "title": "Rapperswil-Jona"
+        },
+        {
+          "img": "Schloss_Oberhofen_am_Thunersee.jpg",
+          "title": "Schloss Oberhofen am Thunersee"
+        },
+        {
+          "img": "Aletschgletscher.jpg",
+          "title": "Aletschgletscher"
+        },
+        {
+          "img": "Matterhorn_spiegelt_sich_in_Stellisee.jpg",
+          "title": "Matterhorn spiegelt sich in Stellisee"
+        },
+        {
+          "img": "Matterhorn_mit_Stellisee_in_Pink.jpg",
+          "title": "Matterhorn mit Stellisee in Pink"
+        },
+        {
+          "img": "Ruine_Dorneck.jpg",
+          "title": "Ruine Dorneck"
+        },
+        {
+          "img": "Etang_de_la_Gruere.jpg",
+          "title": "Etang de la Gruère"
+        },
+        {
+          "img": "Hof_in_Diessbach.jpg",
+          "title": "Hof in Diessbach"
+        },
+        {
+          "img": "Nahaufnahme_von_Krokussen_im_Emmental.jpg",
+          "title": "Nahaufnahme von Krokussen im Emmental"
+        },
+        {
+          "img": "Krokussfeld_im_Emmental.jpg",
+          "title": "Krokussfeld im Emmental"
+        },
+        {
+          "img": "Krokusse_im_Emmental.jpg",
+          "title": "Krokusse im Emmental"
+        },
+        {
+          "img": "Blick_unter_dem_Baum_durch_auf_die_Fruehlingslandschaft.jpg",
+          "title": "Blick unter dem Baum durch auf die Frühlingslandschaft"
+        },
+        {
+          "img": "Eiche_bei_Sissach.jpg",
+          "title": "Eiche bei Sissach"
+        },
+        {
+          "img": "Bluehender_Baum_im_Loewenzahnfeld.jpg",
+          "title": "Blühender Baum im Löwenzahnfeld"
+        },
+        {
+          "img": "Fruehling_in_Baselland.jpg",
+          "title": "Frühling in Baselland"
+        },
+        {
+          "img": "Fruehlingslandschaft_in_der_Naehe_von_Sissach.jpg",
+          "title": "Frühlingslandschaft in der Nähe von Sissach"
+        },
+        {
+          "img": "Altstadt_Zofingen.jpg",
+          "title": "Altstadt Zofingen"
+        },
+        {
+          "img": "Basel_bei_Nacht.jpg",
+          "title": "Basel bei Nacht"
+        },
+        {
+          "img": "Aussicht_von_der_Rigi.jpg",
+          "title": "Aussicht von der Rigi"
+        },
+        {
+          "img": "KiteSurfer_in_Silvaplana.jpg",
+          "title": "Kite-Surfer in Silvaplana"
+        },
+        {
+          "img": "Bergsee_im_Engadin.jpg",
+          "title": "Bergsee im Engadin"
+        },
+        {
+          "img": "Laerchen_im_Val_Trupchun.jpg",
+          "title": "Lärchen im Val Trupchun"
+        },
+        {
+          "img": "Rassiger_Bergbach.jpg",
+          "title": "Rassiger Bergbach"
+        },
+        {
+          "img": "Reihnfall.jpg",
+          "title": "Reihnfall"
+        },
+        {
+          "img": "Melchsee.jpg",
+          "title": "Melchsee"
+        }
+      ]
+    },
+    {
+      "title": "Emmental",
+      "images": [
+        {
+          "img": "Chuderhuesi_im_Emmental.jpg",
+          "title": "Chuderhüsi im Emmental"
+        },
+        {
+          "img": "Herbstliches_Emmental.jpg",
+          "title": "Herbstliches Emmental"
+        },
+        {
+          "img": "Emmentaler_Haus.jpg",
+          "title": "Emmentaler Haus"
+        },
+        {
+          "img": "Landschaft_im_Emmental.jpg",
+          "title": "Landschaft im Emmental"
+        },
+        {
+          "img": "Kleiner_Alpabzug.jpg",
+          "title": "Kleiner Alpabzug"
+        },
+        {
+          "img": "Herbstwald.jpg",
+          "title": "Herbstwald"
+        },
+        {
+          "img": "Morgenstimmung_im_Emmental.jpg",
+          "title": "Morgenstimmung im Emmental"
+        },
+        {
+          "img": "Aussicht_vom_Aussichtsturm_in_Roethenbach.jpg",
+          "title": "Aussicht vom Aussichtsturm in Röthenbach"
+        },
+        {
+          "img": "Guten_Morgen_Emmental.jpg",
+          "title": "Guten Morgen Emmental"
+        },
+        {
+          "img": "Nebliger_Morgen.jpg",
+          "title": "Nebliger Morgen"
+        },
+        {
+          "img": "Morgennebel.jpg",
+          "title": "Morgennebel"
+        }
+      ]
+    },
+    {
+      "title": "Schottland",
+      "images": [
+        {
+          "img": "Rannoch_Moor.jpg",
+          "title": "Rannoch Moor"
+        },
+        {
+          "img": "Sonnenuntergang_am_River_Nith.jpg",
+          "title": "Sonnenuntergang am River Nith"
+        },
+        {
+          "img": "Markanter_Berg.jpg",
+          "title": "Markanter Berg"
+        },
+        {
+          "img": "Glenfinnan_Viadukt.jpg",
+          "title": "Glenfinnan Viadukt"
+        },
+        {
+          "img": "Eilean_Donan_Castle.jpg",
+          "title": "Eilean Donan Castle"
+        },
+        {
+          "img": "Seenlandschaft.jpg",
+          "title": "Seenlandschaft"
+        },
+        {
+          "img": "Bachverlauf_aus_der_Vogelperspektive.jpg",
+          "title": "Bachverlauf aus der Vogelperspektive"
+        },
+        {
+          "img": "Bruecke_von_oben.jpg",
+          "title": "Brücke von oben"
+        },
+        {
+          "img": "Kueste.jpg",
+          "title": "Küste"
+        },
+        {
+          "img": "Sonnenuntergang_am_Loch_Fleet.jpg",
+          "title": "Sonnenuntergang am Loch Fleet"
+        },
+        {
+          "img": "Dornoch_Firth.jpg",
+          "title": "Dornoch Firth"
+        },
+        {
+          "img": "Spannende_Felsformation.jpg",
+          "title": "Spannende Felsformation"
+        },
+        {
+          "img": "Sonnenaufgang_an_der_Nordsee.jpg",
+          "title": "Sonnenaufgang an der Nordsee"
+        },
+        {
+          "img": "Abendstimmung.jpg",
+          "title": "Abendstimmung"
+        },
+        {
+          "img": "Feld_noerdlich_von_Stirling.jpg",
+          "title": "Feld nördlich von Stirling"
+        },
+        {
+          "img": "Landschaft_zwischen_Newcastle_und_Edinburgh.jpg",
+          "title": "Landschaft zwischen Newcastle und Edinburgh"
+        }
+      ]
+    },
+    {
+      "title": "Holland",
+      "images": [
+        {
+          "img": "Osterglocken_bei_Sonnenuntergang.jpg",
+          "title": "Osterglocken bei Sonnenuntergang"
+        },
+        {
+          "img": "Tulpenfeld.jpg",
+          "title": "Tulpenfeld"
+        },
+        {
+          "img": "Windmuehlen_in_Kinderdijk_bei_Daemmerung.jpg",
+          "title": "Windmühlen in Kinderdijk bei Dämmerung"
+        },
+        {
+          "img": "Windmuehle_in_Kinderdijk_bei_Daemmerung.jpg",
+          "title": "Windmühle in Kinderdijk bei Dämmerung"
+        },
+        {
+          "img": "Windmuehlen_in_Kinderdijk.jpg",
+          "title": "Windmühlen in Kinderdijk"
+        },
+        {
+          "img": "Windmuehle_in_Kinderdijk.jpg",
+          "title": "Windmühle in Kinderdijk"
+        }
+      ]
+    },
+    {
+      "title": "Island",
+      "images": [
+        {
+          "img": "Weitere_Luftaufnahme_bei_Suurland.jpg",
+          "title": "Weitere Luftaufnahme bei Suðurland"
+        },
+        {
+          "img": "Spiegelung_bei_Landmannalaugar.jpg",
+          "title": "Spiegelung bei Landmannalaugar"
+        },
+        {
+          "img": "Schafweide_bei_Landmannalaugar.jpg",
+          "title": "Schafweide bei Landmannalaugar"
+        },
+        {
+          "img": "Huegel_in_der_Morgensonne.jpg",
+          "title": "Hügel in der Morgensonne"
+        },
+        {
+          "img": "Luftaufnahme_bei_Landmannalaugar.jpg",
+          "title": "Luftaufnahme bei Landmannalaugar"
+        },
+        {
+          "img": "Abendstimmung_bei_Landmannalaugar.jpg",
+          "title": "Abendstimmung bei Landmannalaugar"
+        },
+        {
+          "img": "Aussicht_vom_Sveinstindur_auf_die_andere_Seite.jpg",
+          "title": "Aussicht vom Sveinstindur auf die andere Seite"
+        },
+        {
+          "img": "Aussicht_vom_Sveinstindur.jpg",
+          "title": "Aussicht vom Sveinstindur"
+        },
+        {
+          "img": "Flussschwelle.jpg",
+          "title": "Flussschwelle"
+        },
+        {
+          "img": "Spiegelung_im_Blautulon.jpg",
+          "title": "Spiegelung im Blautulón"
+        },
+        {
+          "img": "Svnafellsjoekull_Gletscher.jpg",
+          "title": "Svínafellsjökull Gletscher"
+        },
+        {
+          "img": "Flussverlauf_bei_Suurland.jpg",
+          "title": "Flussverlauf bei Suðurland"
+        },
+        {
+          "img": "Abendstimmung_bei_Suurland.jpg",
+          "title": "Abendstimmung bei Suðurland"
+        },
+        {
+          "img": "Abendsonne_bei_Suurland.jpg",
+          "title": "Abendsonne bei Suðurland"
+        },
+        {
+          "img": "Bach_bei_Suurland.jpg",
+          "title": "Bach bei Suðurland"
+        },
+        {
+          "img": "Luftaufnahme_bei_Suurland.jpg",
+          "title": "Luftaufnahme bei Suðurland"
+        },
+        {
+          "img": "Fauchender_irgendwas_bei_Hveravellir.jpg",
+          "title": "Fauchender irgendwas bei Hveravellir"
+        },
+        {
+          "img": "Bei_Hveravellir.jpg",
+          "title": "Bei Hveravellir"
+        },
+        {
+          "img": "Dampfende_Schafe__oder_so.jpg",
+          "title": "Dampfende Schafe - oder so"
+        },
+        {
+          "img": "Wasserfall_an_der_F347.jpg",
+          "title": "Wasserfall an der F347"
+        },
+        {
+          "img": "Kueste_bei_Vik.jpg",
+          "title": "Küste bei Vik"
+        },
+        {
+          "img": "Kueste_in_Dyrholaey.jpg",
+          "title": "Küste in Dyrhólaey"
+        },
+        {
+          "img": "Vorgeschmack_vom_Hochland.jpg",
+          "title": "Vorgeschmack vom Hochland"
+        },
+        {
+          "img": "Wunderbare_Aussicht.jpg",
+          "title": "Wunderbare Aussicht"
+        },
+        {
+          "img": "Wasserfall_mit_Regenbogen.jpg",
+          "title": "Wasserfall mit Regenbogen"
+        },
+        {
+          "img": "Legendaere_DC3.jpg",
+          "title": "Legendäre DC3"
+        },
+        {
+          "img": "Schneeberge.jpg",
+          "title": "Schneeberge"
+        },
+        {
+          "img": "Wasserfall.jpg",
+          "title": "Wasserfall"
+        },
+        {
+          "img": "Regenbogen_ueber_Strasse.jpg",
+          "title": "Regenbogen über Strasse"
+        },
+        {
+          "img": "Gletscher_im_SkaftafellNationalpark.jpg",
+          "title": "Gletscher im Skaftafell-Nationalpark"
+        },
+        {
+          "img": "Gletschersee_im_SkaftafellNationalpark.jpg",
+          "title": "Gletschersee im Skaftafell-Nationalpark"
+        },
+        {
+          "img": "Gespiegelter_Eystrahorn.jpg",
+          "title": "Gespiegelter Eystrahorn"
+        },
+        {
+          "img": "Kueste_in_Stokksnes.jpg",
+          "title": "Küste in Stokksnes"
+        },
+        {
+          "img": "Island.jpg",
+          "title": "Island"
+        },
+        {
+          "img": "Blick_auf_Eystrahorn.jpg",
+          "title": "Blick auf Eystrahorn"
+        },
+        {
+          "img": "Ganzer_Regenbogen.jpg",
+          "title": "Ganzer Regenbogen"
+        },
+        {
+          "img": "Huegel.jpg",
+          "title": "Hügel"
+        },
+        {
+          "img": "Gletscher.jpg",
+          "title": "Gletscher"
+        },
+        {
+          "img": "Regenbogen_ueber_Gletscher.jpg",
+          "title": "Regenbogen über Gletscher"
+        },
+        {
+          "img": "Bruecke.jpg",
+          "title": "Brücke"
+        },
+        {
+          "img": "Eisberge.jpg",
+          "title": "Eisberge"
+        },
+        {
+          "img": "Eisberg.jpg",
+          "title": "Eisberg"
+        },
+        {
+          "img": "Eisblock_mit_Herzform.jpg",
+          "title": "Eisblock mit Herzform"
+        },
+        {
+          "img": "Eisbloecke_im_schwarzen_Sand.jpg",
+          "title": "Eisblöcke im schwarzen Sand"
+        },
+        {
+          "img": "Eisbloecke_im_Meer.jpg",
+          "title": "Eisblöcke im Meer"
+        },
+        {
+          "img": "Eisbloecke_am_Strand.jpg",
+          "title": "Eisblöcke am Strand"
+        },
+        {
+          "img": "Blick_in_die_weite_Ebene.jpg",
+          "title": "Blick in die weite Ebene"
+        },
+        {
+          "img": "Doppelter_Regenbogen.jpg",
+          "title": "Doppelter Regenbogen"
+        },
+        {
+          "img": "Endlich_Sonne_nach_zwei_Tagen_Dauerregen.jpg",
+          "title": "Endlich Sonne nach zwei Tagen Dauerregen"
+        },
+        {
+          "img": "Morgenstimmung.jpg",
+          "title": "Morgenstimmung"
+        },
+        {
+          "img": "Dramatische_Morgenstimmung.jpg",
+          "title": "Dramatische Morgenstimmung"
+        },
+        {
+          "img": "Nordlichter_bei_Joekulsarlon.jpg",
+          "title": "Nordlichter bei Jökulsárlón"
+        },
+        {
+          "img": "Nordlichter_ueber_einem_Gletscher.jpg",
+          "title": "Nordlichter über einem Gletscher"
+        },
+        {
+          "img": "Nordlichter.jpg",
+          "title": "Nordlichter"
+        },
+        {
+          "img": "Sonnenuntergang_mit_Blick_auf_Dyrholaey.jpg",
+          "title": "Sonnenuntergang mit Blick auf Dyrhólaey"
+        },
+        {
+          "img": "Blauer_See_inmitten_von_Islandmoos.jpg",
+          "title": "Blauer See inmitten von Islandmoos"
+        },
+        {
+          "img": "Islandmoos.jpg",
+          "title": "Islandmoos"
+        },
+        {
+          "img": "Kueste_bei_Dyrholaey.jpg",
+          "title": "Küste bei Dyrhólaey"
+        },
+        {
+          "img": "Gebrochene_Welle_an_der_Kueste.jpg",
+          "title": "Gebrochene Welle an der Küste"
+        },
+        {
+          "img": "Tosende_Kueste.jpg",
+          "title": "Tosende Küste"
+        },
+        {
+          "img": "Felsen_an_der_Kueste.jpg",
+          "title": "Felsen an der Küste"
+        },
+        {
+          "img": "Blauer_See_beim_Geysir.jpg",
+          "title": "Blauer See beim Geysir"
+        },
+        {
+          "img": "Geysir_bei_der_Eruption.jpg",
+          "title": "Geysir bei der Eruption"
+        }
+      ]
+    },
+    {
+      "title": "Schweden",
+      "images": [
+        {
+          "img": "Stockholm_bei_Daemmerung.jpg",
+          "title": "Stockholm bei Dämmerung"
+        },
+        {
+          "img": "Stockholm_bei_Nacht.jpg",
+          "title": "Stockholm bei Nacht"
+        },
+        {
+          "img": "See_in_Schweden.jpg",
+          "title": "See in Schweden"
+        }
+      ]
+    },
+    {
+      "title": "Norwegen",
+      "images": [
+        {
+          "img": "Wasserfall_mit_Bruecke.jpg",
+          "title": "Wasserfall mit Brücke"
+        },
+        {
+          "img": "Sonnenuntergang_am_See.jpg",
+          "title": "Sonnenuntergang am See"
+        },
+        {
+          "img": "Kleiner_Hafen_auf_den_Lofoten.jpg",
+          "title": "Kleiner Hafen auf den Lofoten"
+        },
+        {
+          "img": "Typisches_Norwegen.jpg",
+          "title": "Typisches Norwegen"
+        },
+        {
+          "img": "Fischerdorf_auf_den_Lofoten.jpg",
+          "title": "Fischerdorf auf den Lofoten"
+        },
+        {
+          "img": "Fluss_in_Norwegen.jpg",
+          "title": "Fluss in Norwegen"
+        }
+      ]
+    },
+    {
+      "title": "Frühling",
+      "images": [
+        {
+          "img": "Rapsfeld_mit_Schneebergen_im_Hintergrund.jpg",
+          "title": "Rapsfeld mit Schneebergen im Hintergrund"
+        },
+        {
+          "img": "Blick_unter_dem_Baum_durch_auf_die_Fruehlingslandschaft.jpg",
+          "title": "Blick unter dem Baum durch auf die Frühlingslandschaft"
+        },
+        {
+          "img": "Eiche_bei_Sissach.jpg",
+          "title": "Eiche bei Sissach"
+        },
+        {
+          "img": "Bluehender_Baum_im_Loewenzahnfeld.jpg",
+          "title": "Blühender Baum im Löwenzahnfeld"
+        },
+        {
+          "img": "Fruehling_in_Baselland.jpg",
+          "title": "Frühling in Baselland"
+        },
+        {
+          "img": "Fruehlingslandschaft_in_der_Naehe_von_Sissach.jpg",
+          "title": "Frühlingslandschaft in der Nähe von Sissach"
+        }
+      ]
+    },
+    {
+      "title": "Bauwerke",
+      "images": [
+        {
+          "img": "Schloss_Oberhofen_am_Thunersee.jpg",
+          "title": "Schloss Oberhofen am Thunersee"
+        },
+        {
+          "img": "Windmuehle_in_Kinderdijk_bei_Daemmerung.jpg",
+          "title": "Windmühle in Kinderdijk bei Dämmerung"
+        },
+        {
+          "img": "Altstadt_Zofingen.jpg",
+          "title": "Altstadt Zofingen"
+        },
+        {
+          "img": "erzo_Oftringen.jpg",
+          "title": "erzo Oftringen"
+        },
+        {
+          "img": "Basel_bei_Nacht.jpg",
+          "title": "Basel bei Nacht"
+        },
+        {
+          "img": "Kloster_St_Urban.jpg",
+          "title": "Kloster St. Urban"
+        },
+        {
+          "img": "Schulhaus_Maettenwil.jpg",
+          "title": "Schulhaus Mättenwil"
+        },
+        {
+          "img": "Schloss_Lenzburg.jpg",
+          "title": "Schloss Lenzburg"
+        }
+      ]
+    },
+    {
+      "title": "Luftaufnahmen",
+      "images": [
+        {
+          "img": "Kernkraftwerk_Beznau.jpg",
+          "title": "Kernkraftwerk Beznau"
+        },
+        {
+          "img": "Stadt_Zofingen.jpg",
+          "title": "Stadt Zofingen"
+        },
+        {
+          "img": "Strengelbach_bei_Sonnenuntergang.jpg",
+          "title": "Strengelbach bei Sonnenuntergang"
+        },
+        {
+          "img": "Kernkraftwerk_Leibstadt.jpg",
+          "title": "Kernkraftwerk Leibstadt"
+        },
+        {
+          "img": "Aussicht_von_Leuggern_auf_die_Aare.jpg",
+          "title": "Aussicht von Leuggern auf die Aare"
+        },
+        {
+          "img": "Aussicht_von_Leuggern.jpg",
+          "title": "Aussicht von Leuggern"
+        },
+        {
+          "img": "BrittnauStrengelbach.jpg",
+          "title": "Brittnau/Strengelbach"
+        },
+        {
+          "img": "Aare.jpg",
+          "title": "Aare"
+        },
+        {
+          "img": "RapperswilJona.jpg",
+          "title": "Rapperswil-Jona"
+        },
+        {
+          "img": "Hof_in_Diessbach.jpg",
+          "title": "Hof in Diessbach"
+        },
+        {
+          "img": "Kloster_St_Urban.jpg",
+          "title": "Kloster St. Urban"
+        },
+        {
+          "img": "Schulhaus_Maettenwil.jpg",
+          "title": "Schulhaus Mättenwil"
+        },
+        {
+          "img": "Lungernsee.jpg",
+          "title": "Lungernsee"
+        },
+        {
+          "img": "Mauensee.jpg",
+          "title": "Mauensee"
+        }
+      ]
+    },
+    {
+      "title": "Tiere",
+      "images": [
+        {
+          "img": "Eichhoernchen.jpg",
+          "title": "Eichhörnchen",
+          "w": 700,
+          "h": 700
+        },
+        {
+          "img": "Kopf_eines_Steinbocks.jpg",
+          "title": "Kopf eines Steinbocks",
+          "w": 700,
+          "h": 700
+        },
+        {
+          "img": "Steinbock.jpg",
+          "title": "Steinbock",
+          "w": 700,
+          "h": 700
+        },
+        {
+          "img": "Maus.jpg",
+          "title": "Maus",
+          "w": 700,
+          "h": 700
+        },
+        {
+          "img": "Kuh_im_Seealpsee.jpg",
+          "title": "Kuh im Seealpsee"
+        },
+        {
+          "img": "Alpaufzug_am_Seealpsee.jpg",
+          "title": "Alpaufzug am Seealpsee"
+        },
+        {
+          "img": "Junger_Steinbock.jpg",
+          "title": "Junger Steinbock"
+        },
+        {
+          "img": "Junge_Steinboecke.jpg",
+          "title": "Junge Steinböcke"
+        },
+        {
+          "img": "Fliegende_Biene_in_Wiese.jpg",
+          "title": "Fliegende Biene in Wiese"
+        }
+      ]
+    },
+    {
+      "title": "Pflanzen",
+      "images": [
+        {
+          "img": "Nahaufnahme_von_Krokussen_im_Emmental.jpg",
+          "title": "Nahaufnahme von Krokussen im Emmental"
+        },
+        {
+          "img": "Krokussfeld_im_Emmental.jpg",
+          "title": "Krokussfeld im Emmental"
+        },
+        {
+          "img": "Krokusse_im_Emmental.jpg",
+          "title": "Krokusse im Emmental"
+        }
+      ]
+    },
+    {
+      "title": "Felder",
+      "images": [
+        {
+          "img": "Mohnblume_im_Weizenfeld.jpg",
+          "title": "Mohnblume im Weizenfeld"
+        },
+        {
+          "img": "Mohnblume.jpg",
+          "title": "Mohnblume"
+        },
+        {
+          "img": "Mohnblumen.jpg",
+          "title": "Mohnblumen"
+        }
+      ]
+    },
+    {
+      "title": "Sport",
+      "images": [
+        {
+          "img": "KiteSurfer_in_Silvaplana.jpg",
+          "title": "Kite-Surfer in Silvaplana"
+        }
+      ]
+    },
+    {
+      "title": "Technik",
+      "images": [
+        {
+          "img": "Patrouille_Suisse_begleitet_SWISS.jpg",
+          "title": "Patrouille Suisse begleitet SWISS"
+        },
+        {
+          "img": "Kernkraftwerk_Leibstadt.jpg",
+          "title": "Kernkraftwerk Leibstadt"
+        },
+        {
+          "img": "Kernkraftwerk_Beznau.jpg",
+          "title": "Kernkraftwerk Beznau"
+        },
+        {
+          "img": "Glacier_Express_auf_der_Solisbruecke.jpg",
+          "title": "Glacier Express auf der Solisbrücke"
+        },
+        {
+          "img": "Solisbruecke_mit_alter_Eisenbahn.jpg",
+          "title": "Solisbrücke mit alter Eisenbahn"
+        },
+        {
+          "img": "Glacier_Express_am_Oberalpsee.jpg",
+          "title": "Glacier Express am Oberalpsee"
+        },
+        {
+          "img": "Glacier_Express.jpg",
+          "title": "Glacier Express"
+        },
+        {
+          "img": "erzo_Oftringen.jpg",
+          "title": "erzo Oftringen"
+        },
+        {
+          "img": "PC7_Team.jpg",
+          "title": "PC-7 Team"
+        },
+        {
+          "img": "4Motorige_Maschine.jpg",
+          "title": "4-Motorige Maschine"
+        },
+        {
+          "img": "Kampfheli_beim_Looping.jpg",
+          "title": "Kampfheli beim Looping"
+        },
+        {
+          "img": "Superpuma_und_FA18.jpg",
+          "title": "Superpuma und F/A-18"
+        },
+        {
+          "img": "Alte_Flugzeuge.jpg",
+          "title": "Alte Flugzeuge"
+        },
+        {
+          "img": "Fallschirmspringer.jpg",
+          "title": "Fallschirmspringer"
+        },
+        {
+          "img": "Patrouille_Suisse.jpg",
+          "title": "Patrouille Suisse"
+        },
+        {
+          "img": "RedBull_Bo105.jpg",
+          "title": "RedBull Bo-105"
+        },
+        {
+          "img": "Furka_Dampfbahn.jpg",
+          "title": "Furka Dampfbahn"
+        }
+      ]
+    },
+    {
+      "title": "Makro",
+      "w": 700,
+      "h": 700,
+      "images": [
+        {
+          "img": "Loewenzahn.jpg",
+          "title": "Löwenzahn"
+        },
+        {
+          "img": "Ehrenpreis.jpg",
+          "title": "Ehrenpreis"
+        },
+        {
+          "img": "Biene_saugt_Nektar.jpg",
+          "title": "Biene saugt Nektar"
+        },
+        {
+          "img": "Apfelbaumbluete.jpg",
+          "title": "Apfelbaumblüte"
+        },
+        {
+          "img": "Hummel_saugt_Nektar.jpg",
+          "title": "Hummel saugt Nektar"
+        },
+        {
+          "img": "Bluete.jpg",
+          "title": "Blüte"
+        },
+        {
+          "img": "Rose.jpg",
+          "title": "Rose"
+        },
+        {
+          "img": "Blume.jpg",
+          "title": "Blume"
+        },
+        {
+          "img": "Bluemchen.jpg",
+          "title": "Blümchen"
+        },
+        {
+          "img": "Tulpe.jpg",
+          "title": "Tulpe"
+        },
+        {
+          "img": "Spinne.jpg",
+          "title": "Spinne"
+        }
+      ]
+    }
+  ]
+}
